@@ -1,0 +1,29 @@
+{
+  "name": "eslint-playground",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "engine": {
+    "node": "1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turusuke/eslint-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turusuke/eslint-playground/issues"
+  },
+  "homepage": "https://github.com/turusuke/eslint-playground#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-plugin-unicorn": "^41.0.1",
+    "prettier": "^2.6.0"
+  }
+}
