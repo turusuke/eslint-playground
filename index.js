@@ -14,7 +14,7 @@ const regex6 = /[^a-z0-9_]/i;
 const regex7 = /[0-9]\.[a-zA-Z0-9_]\-[^0-9]/i;
 
 /**
- * catch句の引数名を error に強制するする
+ * catch句の引数名を error に強制する
  * catch-error-name
  * https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/catch-error-name.md
  */
